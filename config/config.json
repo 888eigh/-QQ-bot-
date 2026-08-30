@@ -1,0 +1,37 @@
+{
+  "api_base_url": "https://api.deepseek.com",
+  "api_key": "sk-0b7ef15219dd46b1b9b9c943a8b61c28",
+  "api_model": "deepseek-v4-flash",
+  "api_timeout": 60,
+  "api_max_tokens": 4096,
+  "api_temperature": 1.0,
+  "api_thinking_disabled": true,
+  "bot_host": "0.0.0.0",
+  "bot_port": 8081,
+  "auto_port": true,
+  "port_range": [
+    8080,
+    9090
+  ],
+  "command_prefix": "/",
+  "superusers": [
+    365048565
+  ],
+  "nickname": [
+    "bot",
+    "机器人"
+  ],
+  "napcat_path": "",
+  "napcat_auto_start": false,
+  "napcat_ws_url": "ws://127.0.0.1:3001",
+  "log_level": "INFO",
+  "log_keep_days": 30,
+  "chat_enabled": true,
+  "chat_group_enabled": true,
+  "chat_private_enabled": true,
+  "chat_system_prompt": "你是一个 helpful 的QQ机器人助手，用简洁友好的中文回答问题。",
+  "chat_history_limit": 20,
+  "text_command_format": "hash",
+  "napcat_config_path": "",
+  "default_personality": "温柔"
+}

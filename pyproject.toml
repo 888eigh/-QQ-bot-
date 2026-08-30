@@ -1,0 +1,4 @@
+[tool.nonebot]
+plugins = []
+plugin_dirs = ["plugins"]
+adapters = ["nonebot.adapters.onebot.v11"]

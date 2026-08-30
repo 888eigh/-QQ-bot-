@@ -1,0 +1,15 @@
+{
+  "push_method": "email",
+  "email": {
+    "smtp_server": "smtp.163.com",
+    "smtp_port": 465,
+    "sender": "backedcmd@163.com",
+    "password": "LJWPa4Txk8qz7gd5",
+    "receiver": "backedcmd@163.com"
+  },
+  "webhook": {
+    "url": "",
+    "type": "serverchan"
+  },
+  "local_save_path": "C:\\Users\\你的用户名\\Documents\\QQBot日志"
+}
