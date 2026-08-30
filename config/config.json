@@ -1,11 +1,12 @@
+#模型默认使用deepseek格式，请根据需要自行修改
 {
   "api_base_url": "https://api.deepseek.com",
-  "api_key": "sk-0b7ef15219dd46b1b9b9c943a8b61c28",
+  "api_key": "none",#请自行配置密钥
   "api_model": "deepseek-v4-flash",
-  "api_timeout": 60,
-  "api_max_tokens": 4096,
+  "api_timeout": 60,#返回值等待时间
+  "api_max_tokens": 4096,#最大token用量
   "api_temperature": 1.0,
-  "api_thinking_disabled": true,
+  "api_thinking_disabled": true,#配置思考模式开关
   "bot_host": "0.0.0.0",
   "bot_port": 8081,
   "auto_port": true,
