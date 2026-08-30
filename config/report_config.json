@@ -3,9 +3,9 @@
   "email": {
     "smtp_server": "smtp.163.com",
     "smtp_port": 465,
-    "sender": "backedcmd@163.com",
-    "password": "LJWPa4Txk8qz7gd5",
-    "receiver": "backedcmd@163.com"
+    "sender": "自行修改为邮箱地址",
+    "password": "自行修改",#使用需要开启POP3/SMTP服务
+    "receiver": "自行修改为邮箱地址"
   },
   "webhook": {
     "url": "",
@@ -13,3 +13,4 @@
   },
   "local_save_path": "C:\\Users\\你的用户名\\Documents\\QQBot日志"
 }
+#目前此模块采用163邮箱，可根据需要自行修改用于适配错误报告储存，默认配置为每一个小发送一次邮箱
