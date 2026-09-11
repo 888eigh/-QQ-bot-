@@ -15,8 +15,8 @@
   ],
   "command_prefix": "/",
   "superusers": [
-    365048565
-  ],
+    none
+  ],#请自行配置管理员账号
   "nickname": [
     "bot",
     "机器人"
